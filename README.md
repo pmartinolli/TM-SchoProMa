@@ -16,5 +16,5 @@ TM-SchoProMa
 
 * Promoted through / Diffusé via : FBPro, Twitter
 
-* Commments are welcomed at / Commentaires bienvenues : pascal.martinolli [à] umontreal.ca
+* Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
