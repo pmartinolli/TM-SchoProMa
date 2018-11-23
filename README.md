@@ -1,6 +1,8 @@
 # TM-SchoProMa
 Teaching Material: Scholarly profile management / Matériel pédagogique : Gestion de profil en ligne pour jeune chercheur universitaire
 
+[Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/TM-SchoProMa-v1.0.pdf)
+
 * Author / Auteur : Pascal Martinolli
 
 * Created / Créé le : 2018-11-23
@@ -13,4 +15,4 @@ Teaching Material: Scholarly profile management / Matériel pédagogique : Gesti
 
 * Used by / Utilisé par  : Séminaire PLU6058
 
-[Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/TM-SchoProMa-v1.0.pdf)
+
