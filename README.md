@@ -4,6 +4,8 @@ TM-SchoProMa
 
 [Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/TM-SchoProMa-v1.3.pdf)
 
+[Poster in English, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/TM-SchoProMa-v1.3-en.pdf)
+
 * Author / Auteur : Pascal Martinolli
 
 * Created / Créé le : 2018-11-23
@@ -20,4 +22,4 @@ TM-SchoProMa
 
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
-* Thanks to / Remerciements : Fabián Rodríguez, 
+* Thanks to / Remerciements : Fabián Rodríguez
