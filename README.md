@@ -12,7 +12,7 @@ TM-SchoProMa
 
 * Most recent version / Dernière version : 1.3
 
-* Original format / format de fichier : MS Publisher 2013 (Proprietary/Propriétaire)
+* Original format / format de fichier : LibreOffice Draw 5 (Open format/Format ouvert), MS Publisher 2013 (Proprietary/Propriétaire)
 
 * License / Licence : CC-BY
 
