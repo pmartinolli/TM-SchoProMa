@@ -2,9 +2,9 @@ TM-SchoProMa
 ## Gestion d'identité et de profil en ligne pour jeune chercheur universitaire (Matériel pédagogique)
 ## Scholarly profile management (Teaching Material)
 
-[Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/TM-SchoProMa-v1.4-fr.pdf)
+[Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.4-fr.pdf)
 
-[Poster in English, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/TM-SchoProMa-v1.4-en.pdf)
+[Poster in English, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.4-en.pdf)
 
 * Author / Auteur : Pascal Martinolli
 
