@@ -50,3 +50,5 @@ Marie, É. (s.d.). [L'identité numérique du chercheur: Introduction](https://g
 Queensland University of Technology (s.d.) [Create your researcher profile](https://libguides.library.qut.edu.au/researcher_profile), QUT library guide.
 
 Queensland University of Technology (2017) [Build your Researcher Profile](https://www.library.qut.edu.au/research/help/documents/PRES_BuildYourResearcherProfile_20170710.pdf), CRICOS No. 00213J. QUT Division of technology, information and library services.
+
+Chiriac, Emanuela et Ève Richard. « ORCiD: nom de code de la science ouverte ». Tribune Compétences Informationnelles, 15 janvier 2019, https://tribuneci.wordpress.com/2019/01/15/orcid-nom-de-code-de-la-science-ouverte/.
