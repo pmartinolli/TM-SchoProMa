@@ -41,6 +41,24 @@ Sélection de bonnes pratiques de gestion en ligne de ses profils et son identit
 
 N'hésitez pas à demander accompagnement, audit de profil et conseil auprès de votre bibliothécaire disciplinaire.
 
+## Comment ?
+
+Créer un identifiant OrcID :
+
+1. Se rendre sur [OrcID](https://orcid.org/) puis *Sign In*
+2. UdeM : Se créer un *Personal account* (l'UdeM n'a pas de politique générale d'attribution d'OrcID)
+3. Remplir les informations pour enrichir votre profil en ligne
+
+Créer un profil Google Scholar :
+
+1. Avoir un compte Gmail et se connecter avec celui-ci, puis se rendre sur [Google Scholar](https://scholar.google.com/) puis *Mon profil*
+3. Cliquer sur le bouton *Edit* (crayon) à droite de votre nom. Saisir votre courriel institutionnel @umontreal.ca et le valider
+4. Affiliation : nom de votre unité (département, laboratoire,...) suivi de Université de Montréal
+5. Domaines d'intérêt : mots clés thématiques de vos recherches, séparés par des virgules
+6. Page d'accueil : vers votre site web personnel
+7. Cocher rendre mon profil public
+8. Réclamer des publications : *Bouton "+"* puis *Ajouter des articles* 
+
 ## Bibliographie
 
 Bouchard, A. (2018). [L’identité numérique du chercheur : quel accompagnement ?](https://urfistinfo.hypotheses.org/3219), UrfistInfo.
