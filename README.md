@@ -1,10 +1,10 @@
 # Gestion d'identité et de profil en ligne pour jeune chercheur universitaire (Matériel pédagogique)
 
-[Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.4-fr.pdf)
+[Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.5-fr.pdf)
 
 # Scholarly profile management (Teaching Material)
 
-[Poster in English, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.4-en.pdf)
+[Poster in English, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.5-en.pdf)
 
 
 
@@ -48,7 +48,7 @@ Créer un profil Google Scholar :
 
 * Created / Créé le : 2018-11-23
 
-* Most recent version / Dernière version : 1.4
+* Most recent version / Dernière version : 1.5
 
 * Original format / format de fichier : LibreOffice Draw 5 (Open format/Format ouvert), MS Publisher 2013, 2016 (Proprietary/Propriétaire)
 
@@ -62,12 +62,14 @@ Créer un profil Google Scholar :
 
 * Thanks to / Remerciements : Fabián Rodríguez, Marisa Ruccolo
 
-* Changes / Changements 1.3->1.4 : +Publons +Impactstory -Scholar.social (! MS Publisher 2016 PUB format not fully compatible with LO Draw 6)
+* Changes / Changements : 1.3->1.4 : +Publons +Impactstory -Scholar.social (! MS Publisher 2016 PUB format not fully compatible with LO Draw 6) ; 1.4->1.5 : Lien Hypotheses -- OrcID
 
 
 ## Bibliographie
 
 Bouchard, A. (2018). [L’identité numérique du chercheur : quel accompagnement ?](https://urfistinfo.hypotheses.org/3219), UrfistInfo.
+
+Chiriac, Emanuela et Ève Richard. « ORCiD: nom de code de la science ouverte ». Tribune Compétences Informationnelles, 15 janvier 2019, https://tribuneci.wordpress.com/2019/01/15/orcid-nom-de-code-de-la-science-ouverte/.
 
 Marie, É. (s.d.). [L'identité numérique du chercheur: Introduction](https://guides-formadoct.u-bretagneloire.fr/identite_numerique), Université de Bretagne Loire, FormaDoct.
 
@@ -75,9 +77,7 @@ Queensland University of Technology (s.d.) [Create your researcher profile](http
 
 Queensland University of Technology (2017) [Build your Researcher Profile](https://www.library.qut.edu.au/research/help/documents/PRES_BuildYourResearcherProfile_20170710.pdf), CRICOS No. 00213J. QUT Division of technology, information and library services.
 
-Chiriac, Emanuela et Ève Richard. « ORCiD: nom de code de la science ouverte ». Tribune Compétences Informationnelles, 15 janvier 2019, https://tribuneci.wordpress.com/2019/01/15/orcid-nom-de-code-de-la-science-ouverte/.
-
-
+Wesely, Marion. « Ajouter ses billets Hypothèses à son profil ORCID ». Billet. La Maison des carnets (blog). Consulté le 5 février 2019. https://maisondescarnets.hypotheses.org/3338.
 \
 \
 https://github.com/pmartinolli/TM-SchoProMa
