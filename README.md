@@ -1,6 +1,6 @@
 # Gestion d'identité et de profil en ligne pour jeune chercheur universitaire (Matériel pédagogique)
 
-[Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.5-fr.pdf)
+[Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.6-fr.pdf)
 
 # Scholarly profile management (Teaching Material)
 
@@ -48,7 +48,7 @@ Créer un profil Google Scholar :
 
 * Created / Créé le : 2018-11-23
 
-* Most recent version / Dernière version : 1.5
+* Most recent version / Dernière version : 1.6
 
 * Original format / format de fichier : LibreOffice Draw 5 (Open format/Format ouvert), MS Publisher 2013, 2016 (Proprietary/Propriétaire)
 
