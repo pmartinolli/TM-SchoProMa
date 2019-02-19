@@ -78,6 +78,8 @@ Queensland University of Technology (s.d.) [Create your researcher profile](http
 Queensland University of Technology (2017) [Build your Researcher Profile](https://www.library.qut.edu.au/research/help/documents/PRES_BuildYourResearcherProfile_20170710.pdf), CRICOS No. 00213J. QUT Division of technology, information and library services.
 
 Wesely, Marion. « Ajouter ses billets Hypothèses à son profil ORCID ». Billet. La Maison des carnets (blog). Consulté le 5 février 2019. https://maisondescarnets.hypotheses.org/3338.
+
+\
 \
 \
 https://github.com/pmartinolli/TM-SchoProMa
