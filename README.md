@@ -4,7 +4,7 @@
 
 # Scholarly profile management (Teaching Material)
 
-[Poster in English, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.6-en.pdf)
+[Poster in English, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.7-en.pdf)
 
 
 
