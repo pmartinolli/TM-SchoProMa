@@ -1,6 +1,6 @@
 # Gestion d'identité et de profil en ligne pour jeune chercheur universitaire (Matériel pédagogique)
 
-[Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.6-fr.pdf)
+[Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.7-fr.pdf)
 
 # Scholarly profile management (Teaching Material)
 
