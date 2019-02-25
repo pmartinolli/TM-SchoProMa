@@ -70,7 +70,7 @@ Bouchard, A. (2018). [L’identité numérique du chercheur : quel accompagnem
 
 Chiriac, Emanuela et Ève Richard. « ORCiD: nom de code de la science ouverte ». Tribune Compétences Informationnelles, 15 janvier 2019, https://tribuneci.wordpress.com/2019/01/15/orcid-nom-de-code-de-la-science-ouverte/.
 
-Clairoux, Natalie, et Rhoda Weiss-Lambrou. Social Media Use in Medical and Health Professional Education: Role of the Librarian on a Faculty Steering Committee. août 2015. papyrus.bib.umontreal.ca, doi:10.5596/c15-016.
+Clairoux, Natalie, et Rhoda Weiss-Lambrou. [Social Media Use in Medical and Health Professional Education: Role of the Librarian on a Faculty Steering Committee](http://hdl.handle.net/1866/12222). août 2015. doi:10.5596/c15-016.
 
 Marie, É. (s.d.). [L'identité numérique du chercheur: Introduction](https://guides-formadoct.u-bretagneloire.fr/identite_numerique), Université de Bretagne Loire, FormaDoct.
 
