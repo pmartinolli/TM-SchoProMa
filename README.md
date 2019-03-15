@@ -45,7 +45,7 @@ N'hésitez pas à demander accompagnement, audit de profil et conseil auprès de
 
 ### Déposez vos publications dans Papyrus, le dépôt institutionnel de l'UdeM
 
-1. Rendez-vous sur [https://papyrus.bib.umontreal.ca/](Papyrus).
+1. Rendez-vous sur [Papyrus](https://papyrus.bib.umontreal.ca/).
 2. Ouvrez une session ou inscrivez-vous.
 3. Initiez une nouvelle soumission.
 4. Sélectionnez la collection de dépôt : 
@@ -56,7 +56,7 @@ N'hésitez pas à demander accompagnement, audit de profil et conseil auprès de
 
 ### Créez un profil sur Base-Search
 
-1. Créez-vous un profil sur [https://www.base-search.net/](Base Search)
+1. Créez-vous un profil sur [Base Search](https://www.base-search.net/)
 2. Réclamez vos publications.
 
 ### Bloguez sur votre sujet de recherche
@@ -65,17 +65,17 @@ Voir le [Programme de 12 semaines pour démarrer un blogue sur un sujet de reche
 
 ### Faites du réseautage professionnel, généraliste ou universitaire
 
-* [https://portfolio.umontreal.ca/](Portfolio UdeM) : Pour avoir une page web maître pointant vers tous les outils du Web où vous figurez.
+* [Portfolio UdeM](https://portfolio.umontreal.ca/) : Pour avoir une page web maître pointant vers tous les outils du Web où vous figurez.
 
-* [https://ca.linkedin.com/](LinkedIn) : Pour faire du réseautage professionnel (CV en ligne, contacts, posts courts ou articles longs).
+* [LinkedIn](https://ca.linkedin.com/) : Pour faire du réseautage professionnel (CV en ligne, contacts, posts courts ou articles longs).
 
-* [https://twitter.com/](Twitter) : Pour s'abonner à des flux d'information et redistribuer les plus intéressants.
+* [Twitter](https://twitter.com/) : Pour s'abonner à des flux d'information et redistribuer les plus intéressants.
 
-   * [https://impactstory.org/](Impactstory) : Pour suivre la popularité Twitter de vos publications.
+   * [Impactstory](https://impactstory.org/) : Pour suivre la popularité Twitter de vos publications.
    
-* [https://www.researchgate.net/](ResearchGate) : Réseautage académique. Attention à ne pas enfreindre le droit d'auteur en déposant des articles que vous avez publié ailleurs (et à qui vous avez cédé vos droits d'auteur).
+* [ResearchGate](https://www.researchgate.net/) : Réseautage académique. Attention à ne pas enfreindre le droit d'auteur en déposant des articles que vous avez publié ailleurs (et à qui vous avez cédé vos droits d'auteur).
 
-* [https://www.academia.edu/](Academia) : Réseautage académique. Attention à ne pas enfreindre le droit d'auteur en déposant des articles que vous avez publié ailleurs (et à qui vous avez cédé vos droits d'auteur).
+* [Academia](https://www.academia.edu/) : Réseautage académique. Attention à ne pas enfreindre le droit d'auteur en déposant des articles que vous avez publié ailleurs (et à qui vous avez cédé vos droits d'auteur).
 
 ### Vérifiez régulièrement
 
@@ -86,7 +86,7 @@ Voir le [Programme de 12 semaines pour démarrer un blogue sur un sujet de reche
 
 ### Publons
 
-Si vous faites de la révision par les pairs d'articles de revues scientifiques, faites reconnaître votre travail et mesurez l'impact de vos pulications avec [https://publons.com/](Publons).
+Si vous faites de la révision par les pairs d'articles de revues scientifiques, faites reconnaître votre travail et mesurez l'impact de vos pulications avec [Publons](https://publons.com/).
 
 
 ## Métadonnées
@@ -103,7 +103,7 @@ Si vous faites de la révision par les pairs d'articles de revues scientifiques,
 
 * Used by / Utilisé par  : [https://bib.umontreal.ca/multidisciplinaire/plu6058](Séminaire PLU6058)
 
-* Promoted through / Diffusé via : FBPro, Twitter, LinkedIn, [http://quartierlibre.ca/bonne-reputation/](Quartier Libre), [https://bib.umontreal.ca/soutien-recherche/soutien-recherche](Soutien à la recherche (guide Bib/UdeM))
+* Promoted through / Diffusé via : FBPro, Twitter, LinkedIn, [Quartier Libre](http://quartierlibre.ca/bonne-reputation/), [Soutien à la recherche (guide Bib/UdeM)](https://bib.umontreal.ca/soutien-recherche/soutien-recherche)
 
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
