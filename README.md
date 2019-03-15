@@ -1,4 +1,4 @@
-# Gestion d'identité et de profil en ligne pour jeune chercheur universitaire (Matériel pédagogique)
+# Gestion d'identité et de profil en ligne pour jeune chercheur universitaire (matériel pédagogique)
 
 [Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.7-fr.pdf)
 
@@ -13,34 +13,81 @@
 
 Sélection de bonnes pratiques de gestion en ligne de ses profils et son identité de jeune chercheur pour :
 
-* Promouvoir votre profil personnel (votre expertise, vos résultats, vos enseignements, etc.)
-* Promouvoir vos publications (peer-reviewed, conférences, rapports, chapitres, livres, articles de magazine, billets de blogue, tweets, etc.) 
-* Promouvoir votre unité de recherche (université, laboratoire, chaire. etc.)
-* Améliorer la compilation de vos indicateurs bibliométriques en assurant une attribution exacte
-* Susciter des nouvelles collaborations
-* Trouver ou soutenir vos demandes de financement
-* "Be visible or vanish"
-* Avoir une attitude proactive sur les résultat de recherche dans les moteurs web
+* Promouvoir votre profil personnel (votre expertise, vos résultats, vos enseignements, etc.) ;
+* Promouvoir vos publications (peer-reviewed, conférences, rapports, chapitres, livres, articles de magazine, billets de blogue, tweets, etc.) ;
+* Promouvoir votre unité de recherche (université, laboratoire, chaire. etc.) ;
+* Améliorer la compilation de vos indicateurs bibliométriques en assurant une attribution exacte ;
+* Susciter des nouvelles collaborations ;
+* Trouver ou soutenir vos demandes de financement ;
+* "Be visible or vanish" ;
+* Avoir une attitude proactive sur les résultat de recherche vous concernant dans les moteurs web ;
 
 N'hésitez pas à demander accompagnement, audit de profil et conseil auprès de votre bibliothécaire disciplinaire.
 
 ## Comment ?
 
-Créer un identifiant OrcID :
+## Créez un identifiant OrcID :
 
-1. Se rendre sur [OrcID](https://orcid.org/) puis *Sign In*
-2. UdeM : Se créer un *Personal account* (l'UdeM n'a pas de politique générale d'attribution d'OrcID)
-3. Remplir les informations pour enrichir votre profil en ligne
+1. Rendez-vous sur [OrcID](https://orcid.org/) puis *Sign In*.
+2. UdeM : Créez-vous un *Personal account* (l'UdeM n'a pas de politique générale d'attribution d'OrcID, à vous de créer le votre).
+3. Remplissez les informations pour enrichir votre profil en ligne.
 
-Créer un profil Google Scholar :
+### Créez un profil Google Scholar :
 
-1. Avoir un compte Gmail et se connecter avec celui-ci, puis se rendre sur [Google Scholar](https://scholar.google.com/) puis *Mon profil*
-3. Cliquer sur le bouton *Edit* (crayon) à droite de votre nom. Saisir votre courriel institutionnel @umontreal.ca et le valider
-4. Affiliation : nom de votre unité (département, laboratoire,...) suivi de Université de Montréal
-5. Domaines d'intérêt : mots clés thématiques de vos recherches, séparés par des virgules
-6. Page d'accueil : vers votre site web personnel
-7. Cocher rendre mon profil public
-8. Réclamer des publications : *Bouton "+"* puis *Ajouter des articles* 
+1. Ayez un compte Gmail et connectez-vous avec celui-ci, puis rendez-vous sur [Google Scholar](https://scholar.google.com/) puis *Mon profil*.
+2. Cliquez sur le bouton *Edit* (crayon) à droite de votre nom. Saisissez votre courriel institutionnel @umontreal.ca et validez-le.
+* Affiliation : nom de votre unité (département, laboratoire, etc.), suivi de : Université de Montréal.
+* Domaines d'intérêt : mots clés thématiques de vos recherches, séparés par des virgules.
+* Page d'accueil : vers votre site web personnel.
+3. Cochez Rendre mon profil public.
+4. Réclamez des publications : *Bouton "+"* puis *Ajouter des articles*.
+5. Abonnez-vous à vous-même en cliquant sur Suivre : De nouvelles citations de mes articles sont disponibles.
+
+### Déposez vos publications dans Papyrus, le dépôt institutionnel de l'UdeM
+
+1. Rendez-vous sur [https://papyrus.bib.umontreal.ca/](Papyrus).
+2. Ouvrez une session ou inscrivez-vous.
+3. Initiez une nouvelle soumission.
+4. Sélectionnez la collection de dépôt : 
+* Votre unité + Travaux et publications (pour les professeurs)
+* Votre unité + Thèses et mémoires (pour les étudiants), avec votre OrcID.
+* Votre unité + Production étudiante (pour les étudiants)
+5. Patientez.
+
+### Créez un profil sur Base-Search
+
+1. Créez-vous un profil sur [https://www.base-search.net/](Base Search)
+2. Réclamez vos publications.
+
+### Bloguez sur votre sujet de recherche
+
+Voir le [Programme de 12 semaines pour démarrer un blogue sur un sujet de recherche](https://github.com/pmartinolli/TM-incubablog)
+
+### Faites du réseautage professionnel, généraliste ou universitaire
+
+* [https://portfolio.umontreal.ca/](Portfolio UdeM) : Pour avoir une page web maître pointant vers tous les outils du Web où vous figurez.
+
+* [https://ca.linkedin.com/](LinkedIn) : Pour faire du réseautage professionnel (CV en ligne, contacts, posts courts ou articles longs).
+
+* [https://twitter.com/](Twitter) : Pour s'abonner à des flux d'information et redistribuer les plus intéressants.
+
+   * [https://impactstory.org/](Impactstory) : Pour suivre la popularité Twitter de vos publications.
+   
+* [https://www.researchgate.net/](ResearchGate) : Réseautage académique. Attention à ne pas enfreindre le droit d'auteur en déposant des articles que vous avez publié ailleurs (et à qui vous avez cédé vos droits d'auteur).
+
+* [https://www.academia.edu/](Academia) : Réseautage académique. Attention à ne pas enfreindre le droit d'auteur en déposant des articles que vous avez publié ailleurs (et à qui vous avez cédé vos droits d'auteur).
+
+### Vérifiez régulièrement
+
+* Vérifiez régulièrement dans Web of Science, Google Scholar, Base-Search, etc. que vos publications vous sont bien attribuées.
+
+* Créez-vous des alertes de citation sur vos publications pour être prévenu des documents qui vous citent.
+
+
+### Publons
+
+Si vous faites de la révision par les pairs d'articles de revues scientifiques, faites reconnaître votre travail et mesurez l'impact de vos pulications avec [https://publons.com/](Publons).
+
 
 ## Métadonnées
 
@@ -48,15 +95,15 @@ Créer un profil Google Scholar :
 
 * Created / Créé le : 2018-11-23
 
-* Most recent version / Dernière version : 1.6
+* Most recent version / Dernière version : 1.7
 
 * Original format / format de fichier : LibreOffice Draw 5 (Open format/Format ouvert), MS Publisher 2013, 2016 (Proprietary/Propriétaire)
 
 * License / Licence : CC-BY
 
-* Used by / Utilisé par  : Séminaire PLU6058
+* Used by / Utilisé par  : [https://bib.umontreal.ca/multidisciplinaire/plu6058](Séminaire PLU6058)
 
-* Promoted through / Diffusé via : FBPro, Twitter, LinkedIn
+* Promoted through / Diffusé via : FBPro, Twitter, LinkedIn, [http://quartierlibre.ca/bonne-reputation/](Quartier Libre), [https://bib.umontreal.ca/soutien-recherche/soutien-recherche](Soutien à la recherche (guide Bib/UdeM))
 
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
