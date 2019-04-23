@@ -26,7 +26,7 @@ N'hésitez pas à demander accompagnement, audit de profil et conseil auprès de
 
 ## Comment ?
 
-## Créez un identifiant OrcID :
+### Créez un identifiant OrcID :
 
 1. Rendez-vous sur [OrcID](https://orcid.org/) puis *Sign In*.
 2. UdeM : Créez-vous un *Personal account* (l'UdeM n'a pas de politique générale d'attribution d'OrcID, à vous de créer le votre).
@@ -88,6 +88,13 @@ Voir le [Programme de 12 semaines pour démarrer un blogue sur un sujet de reche
 
 Si vous faites de la révision par les pairs d'articles de revues scientifiques, faites reconnaître votre travail et mesurez l'impact de vos pulications avec [Publons](https://publons.com/).
 
+
+### Optionnel : Méta-profil
+
+Vous pouvez créer une page web statique en html qui recense tous les profils que vous avez créé en ligne. Si possible, ce méta-profil doit avoir une URL fixe, simple et permanente dans le temps.
+
+* Suggestion pour les étudiants de l'Université de Montréal. Créer une page avec Portfolio. Exemple : https://portfolio.umontreal.ca/user/view.php?id=22220 
+* Suggestion : créer une page unique gratuite avec [about.me](https://about.me/) redirigeant vers votre Portfolio ou bien contenant tous les liens vers vos profils. Exemple : https://about.me/martinolli 
 
 ## Métadonnées
 
