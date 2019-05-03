@@ -108,7 +108,7 @@ Vous pouvez créer une page web statique en html qui recense tous les profils qu
 
 * License / Licence : CC-BY
 
-* Used by / Utilisé par  : [https://bib.umontreal.ca/multidisciplinaire/plu6058](Séminaire PLU6058)
+* Used by / Utilisé par  : [Séminaire PLU6058](https://bib.umontreal.ca/multidisciplinaire/plu6058)
 
 * Promoted through / Diffusé via : FBPro, Twitter, LinkedIn, [Quartier Libre](http://quartierlibre.ca/bonne-reputation/), [Soutien à la recherche (guide Bib/UdeM)](https://bib.umontreal.ca/soutien-recherche/soutien-recherche)
 
@@ -122,7 +122,7 @@ Vous pouvez créer une page web statique en html qui recense tous les profils qu
 
 Bouchard, A. (2018). [L’identité numérique du chercheur : quel accompagnement ?](https://urfistinfo.hypotheses.org/3219), UrfistInfo.
 
-Chiriac, Emanuela et Ève Richard. « ORCiD: nom de code de la science ouverte ». Tribune Compétences Informationnelles, 15 janvier 2019, https://tribuneci.wordpress.com/2019/01/15/orcid-nom-de-code-de-la-science-ouverte/.
+Chiriac, Emanuela et Ève Richard. « [ORCiD: nom de code de la science ouverte](https://tribuneci.wordpress.com/2019/01/15/orcid-nom-de-code-de-la-science-ouverte/) ». Tribune Compétences Informationnelles, 15 janvier 2019.
 
 Clairoux, Natalie, et Rhoda Weiss-Lambrou. [Social Media Use in Medical and Health Professional Education: Role of the Librarian on a Faculty Steering Committee](http://hdl.handle.net/1866/12222). août 2015. doi:10.5596/c15-016.
 
@@ -132,7 +132,7 @@ Queensland University of Technology (s.d.) [Create your researcher profile](http
 
 Queensland University of Technology (2017) [Build your Researcher Profile](https://www.library.qut.edu.au/research/help/documents/PRES_BuildYourResearcherProfile_20170710.pdf), CRICOS No. 00213J. QUT Division of technology, information and library services.
 
-Wesely, Marion. « Ajouter ses billets Hypothèses à son profil ORCID ». Billet. La Maison des carnets (blog). Consulté le 5 février 2019. https://maisondescarnets.hypotheses.org/3338.
+Wesely, Marion. « [Ajouter ses billets Hypothèses à son profil ORCID](https://maisondescarnets.hypotheses.org/3338) ». La Maison des carnets (blog).
 
 \
 \
