@@ -88,6 +88,10 @@ Voir le [Programme de 12 semaines pour démarrer un blogue sur un sujet de reche
 
 Si vous faites de la révision par les pairs d'articles de revues scientifiques, faites reconnaître votre travail et mesurez l'impact de vos pulications avec [Publons](https://publons.com/).
 
+### Wikidata
+
+En juin 2019, le [consensus](https://www.wikidata.org/wiki/Wikidata:Notability/fr) sur la [notoriété](https://www.wikidata.org/wiki/Topic:V2bwkulb3m2kfnk6) des éléments de Wikidata dit qu'il est possible de se créer un élément wikidata à la condition d'avoir publié au moins un article dans une revue universitaire avec comité de lecture.
+
 
 ### Optionnel : Méta-profil
 
