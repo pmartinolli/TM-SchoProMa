@@ -1,15 +1,13 @@
-# Gestion d'identité et de profil en ligne pour jeune chercheur universitaire (matériel pédagogique)
+# Gestion d'identité et de profil en ligne pour jeune chercheur universitaire 
 
 [Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.7-fr.pdf)
 
-# Scholarly profile management (Teaching Material)
+# *Scholarly profile management*
 
-[Poster in English, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.7-en.pdf)
-
-
+*[Poster in English, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.7-en.pdf)*
 
 
-## Pourquoi ?
+## Pourquoi ? / *Why?*
 
 Sélection de bonnes pratiques de gestion en ligne de ses profils et son identité de jeune chercheur pour :
 
@@ -19,10 +17,21 @@ Sélection de bonnes pratiques de gestion en ligne de ses profils et son identit
 * Améliorer la compilation de vos indicateurs bibliométriques en assurant une attribution exacte ;
 * Susciter des nouvelles collaborations ;
 * Trouver ou soutenir vos demandes de financement ;
-* "Be visible or vanish" ;
+* « Be visible or vanish » (être visible ou disparaître) ;
 * Avoir une attitude proactive sur les résultat de recherche vous concernant dans les moteurs web ;
 
 N'hésitez pas à demander accompagnement, audit de profil et conseil auprès de votre bibliothécaire disciplinaire.
+
+*A selection of good pratices to manage your profiles and your identity of young researcher for :*
+
+*- Promoting your personal profile (your expertise, your results, yours teachings,...)*
+*- Promoting your publications ;*
+*- Promoting your research unit ;*
+*- Helping improve the quality of your bibliometric data with an accurate attribution of your papers ;*
+*- Sparking new collaborations ;*
+*- Finding or supporting your financing applications ;*
+*- "Be visible or vanish" ;*
+*- Being proactive on the search results about you in the web search engines.*
 
 ## Comment ?
 
