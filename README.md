@@ -43,11 +43,21 @@ N'hésitez pas à demander accompagnement, audit de profil et conseil auprès de
 
 ### Créez un profil Google Scholar :
 
+#### Pourquoi ?
+
+- Effort minimal (10 minutes pour s'inscrire puis mises à jour semi-automatiques à valider).
+- Suivre ses propres citations (alerte de suivi).
+- Pousser ses publications (alerte de suivi).
+- Vos articles révisés par les pairs mais aussi les rapports, la littérature grise, les conférences, etc. (il faudrait que les documens se trouvent sur un dépôt institutionnel).
+- Gratuit. Pas de publicité. Accès libre au profil.
+
+#### Comment ?
+
 1. Ayez un compte Gmail et connectez-vous avec celui-ci, puis rendez-vous sur [Google Scholar](https://scholar.google.com/) puis *Mon profil*.
 2. Cliquez sur le bouton *Edit* (crayon) à droite de votre nom. Saisissez votre courriel institutionnel @umontreal.ca et validez-le.
-* Affiliation : nom de votre unité (département, laboratoire, etc.), suivi de : Université de Montréal.
-* Domaines d'intérêt : mots clés thématiques de vos recherches, séparés par des virgules.
-* Page d'accueil : vers votre site web personnel.
+   * Affiliation : nom de votre unité (département, laboratoire, etc.), suivi de : Université de Montréal.
+   * Domaines d'intérêt : mots clés thématiques de vos recherches, séparés par des virgules.
+   * Page d'accueil : vers votre site web personnel.
 3. Cochez Rendre mon profil public.
 4. Réclamez des publications : *Bouton "+"* puis *Ajouter des articles*.
 5. Abonnez-vous à vous-même en cliquant sur Suivre : De nouvelles citations de mes articles sont disponibles.
