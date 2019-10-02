@@ -6,6 +6,7 @@
 
 *[Poster in English, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.7-en.pdf)*
 
+[![](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-snapshot.png)](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.7-fr.pdf)
 
 ## Pourquoi ? / *Why?*
 
