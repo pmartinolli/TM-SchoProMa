@@ -108,6 +108,8 @@ Voir le [Programme de 12 semaines pour démarrer un blogue sur un sujet de reche
 
 Si vous faites de la révision par les pairs d'articles de revues scientifiques, faites reconnaître votre travail et mesurez l'impact de vos pulications avec [Publons](https://publons.com/).
 
+Depuis 2019, [Springer Nature](https://www.springernature.com/gp/researchers/the-source/blog/blogposts-for-peer-reviewers/five-reasons-to-validate-your-reviews-with-orcid/17152380) permet aussi de reconnaître le travail de révision dans ses revues avec ORCID.
+
 ### Wikidata
 
 En juin 2019, le [consensus](https://www.wikidata.org/wiki/Wikidata:Notability/fr) sur la [notoriété](https://www.wikidata.org/wiki/Topic:V2bwkulb3m2kfnk6) des éléments de Wikidata dit qu'il est possible de se créer un élément wikidata à la condition d'avoir publié au moins un article dans une revue universitaire avec comité de lecture. ([exemple](https://www.wikidata.org/wiki/Q57901035))
