@@ -83,6 +83,8 @@ N'hésitez pas à demander accompagnement, audit de profil et conseil auprès de
 
 Voir le [Programme de 12 semaines pour démarrer un blogue sur un sujet de recherche](https://github.com/pmartinolli/TM-incubablog)
 
+Il est possible d'envoyer des billets de la plateforme Hypothèses.org vers ORCID en se connectant à [OpenEdition avec son ORCID](https://maisondescarnets.hypotheses.org/3338).
+
 ### Faites du réseautage professionnel, généraliste ou universitaire
 
 * [Portfolio UdeM](https://portfolio.umontreal.ca/) : Pour avoir une page web maître pointant vers tous les outils du Web où vous figurez.
