@@ -1,3 +1,5 @@
+<span style="color:red">Prochaine mise à jour : décembre 2019</span>
+
 # Gestion d'identité et de profil en ligne pour jeune chercheur universitaire 
 
 [Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.7-fr.pdf)
