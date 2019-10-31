@@ -1,4 +1,4 @@
-<font color='red'>Prochaine mise à jour : décembre 2019</font>
+Prochaine mise à jour : décembre 2019
 
 # Gestion d'identité et de profil en ligne pour jeune chercheur universitaire 
 
