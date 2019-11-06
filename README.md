@@ -2,13 +2,13 @@ Prochaine mise à jour : décembre 2019
 
 # Gestion d'identité et de profil en ligne pour jeune chercheur universitaire 
 
-[Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.7-fr.pdf)
+[Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.8-fr.pdf)
 
 # *Scholarly profile management*
 
 *[Poster in English, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.7-en.pdf)*
 
-[![](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-snapshot.png)](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.7-fr.pdf)
+[![](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-snapshot.png)](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.8-fr.pdf)
 
 ## Pourquoi ? / *Why?*
 
@@ -116,7 +116,19 @@ Depuis 2019, [Springer Nature](https://www.springernature.com/gp/researchers/the
 
 ### Wikidata
 
+####Éligibilité
+
 En juin 2019, le [consensus](https://www.wikidata.org/wiki/Wikidata:Notability/fr) sur la [notoriété](https://www.wikidata.org/wiki/Topic:V2bwkulb3m2kfnk6) des éléments de Wikidata dit qu'il est possible de se créer un élément wikidata à la condition d'avoir publié au moins un article dans une revue universitaire avec comité de lecture. ([exemple](https://www.wikidata.org/wiki/Q57901035))
+
+####Pourquoi?
+
+Wikidata est devenu l'outil fédérateur de tous les identifiants ouverts de chercheurs. Il est aussi utilisé par les moteurs de recherche sémantiques (comme Google) pour améliorer leurs résultats de recherche.
+
+####Avertissement
+
+Il est recommandé de se créer un compte Wikimedia et d'ajouter la page de votre élément Q à votre liste de suivi (*watchlist*) pour être alerté de toutes modifications sur celui-ci. En effet, il est possible que des personnes mal informées ou mal intentionnées indexent des déclarations (*statements*) privées ou diffamatoires. Si c'est le cas, envoyer un courriel immédiat au [Wikidata Oversight](https://www.wikidata.org/wiki/Wikidata:Oversight) pour masquer les déclarations concernées et leurs historiques de modification.
+
+Exemples de déclarations à surveiller : Place of birth (P19), Date of birth (P569), Located at street address (P6375), Phone number (P1329), E-mail address (P968), Sexual orientation (P91), Political ideology (P1142), Religion (P140), Medical condition (P1050), Cause of death (P509),...
 
 
 ### Optionnel : Méta-profil
