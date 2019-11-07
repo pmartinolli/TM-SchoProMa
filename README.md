@@ -10,7 +10,7 @@ Prochaine mise à jour : décembre 2019
 
 [![](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-snapshot.png)](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.8-fr.pdf)
 
-## Pourquoi ? / *Why?*
+# Pourquoi ? / *Why?*
 
 Sélection de bonnes pratiques de gestion en ligne de ses profils et son identité de jeune chercheur pour :
 
@@ -21,7 +21,7 @@ Sélection de bonnes pratiques de gestion en ligne de ses profils et son identit
 * Susciter des nouvelles collaborations ;
 * Trouver ou soutenir vos demandes de financement ;
 * « Be visible or vanish » (être visible ou disparaître) ;
-* Avoir une attitude proactive sur les résultat de recherche vous concernant dans les moteurs web ;
+* Avoir une attitude proactive sur les résultat de recherche vous concernant dans les moteurs web.
 
 N'hésitez pas à demander accompagnement, audit de profil et conseil auprès de votre bibliothécaire disciplinaire.
 
@@ -36,15 +36,27 @@ N'hésitez pas à demander accompagnement, audit de profil et conseil auprès de
 *- "Be visible or vanish" ;*
 *- Being proactive on the search results about you in the web search engines.*
 
-## Comment ?
+# Comment ?
 
-### Créez un identifiant OrcID :
+## 1. Créez un identifiant OrcID :
+
+#### Pourquoi ?
+
+* ORCID est devenu le principal identifiant pérenne et ouvert de chercheur. 
+* Selon les recommandations pour les PIDs (*Permanent Identifiers*), il est « FAIR » : **F**acile à trouver, **O**uvert, **I**nteropérable et **R**éutilisable.
+* Il est assez complet, simple et stable pour servir de méta profil (voir plus bas).
+* Il est utilisé par de plus en plus de plateformes, revues, demande de financements, etc.
+
+#### Comment ?
 
 1. Rendez-vous sur [OrcID](https://orcid.org/) puis *Sign In*.
-2. UdeM : Créez-vous un *Personal account* (l'UdeM n'a pas de politique générale d'attribution d'OrcID, à vous de créer le votre).
-3. Remplissez les informations pour enrichir votre profil en ligne.
+2. UdeM : Créez-vous un *Personal account* (la création d'OrcID est une démarche personnelle à l'UdeM, à vous de créer le votre).
+3. Remplissez les informations pour enrichir votre profil en ligne : publications, diplômes, emplois, financements, travaux de révision par les pairs, etc.
+* Il est possible d'importer un fichier BibTeX.
+* Il est possible d'importer vos informations de nombreuses ressources liées.
+* Demandez conseil à votre bibliothécaire disciplinaire pour gagner du temps.
 
-### Créez un profil Google Scholar :
+## 2. Créez un profil Google Scholar :
 
 #### Pourquoi ?
 
@@ -65,56 +77,49 @@ N'hésitez pas à demander accompagnement, audit de profil et conseil auprès de
 4. Réclamez des publications : *Bouton "+"* puis *Ajouter des articles*.
 5. Abonnez-vous à vous-même en cliquant sur Suivre : De nouvelles citations de mes articles sont disponibles.
 
-### Déposez vos publications dans Papyrus, le dépôt institutionnel de l'UdeM
+## 3. Déposez vos publications dans des dépôts institutionnels en libre accès
+
+NB: ResearchGate et Academia ne sont pas des dépôts institutionnels en libre accès.
+
+#### Dans Papyrus, le dépôt institutionnel de l'UdeM
 
 1. Rendez-vous sur [Papyrus](https://papyrus.bib.umontreal.ca/).
 2. Ouvrez une session ou inscrivez-vous.
-3. Initiez une nouvelle soumission.
+3. Initiez une nouvelle soumission. Vous n'avez qu'à envoyer le document, le service de cataloguage des Bibliothèques va s'occuper de renseigner toutes les informations nécessaires pour le rendre disponible et accessible.
 4. Sélectionnez la collection de dépôt : 
 * Votre unité + Travaux et publications (pour les professeurs)
 * Votre unité + Thèses et mémoires (pour les étudiants), avec votre OrcID.
 * Votre unité + Production étudiante (pour les étudiants)
 5. Patientez.
 
-### Créez un profil sur Base-Search
+#### Dans Open Science Framework, un dépôt de preprints en accès libre
 
-1. Créez-vous un profil sur [Base Search](https://www.base-search.net/)
-2. Réclamez vos publications.
+* [OSF.io](https://osf.io/)
+* Il est interopérable avec ORCID.
+* Il est moissonné par Google Scholar.
+* Il est en partenariat avec de nombreux dépôts : AfricArXiv, AgriXiv, arabixiv, BodoArXiv, EarthArXiv, EcoEvoRxiv, ECSarXivengrXiv, EdArXiv, FocUS Archive, Frenxiv, INA-Rxiv, indiarxiv, LawArXiv, LIS Scholarship Archive (LISSA), MarXiv, MediArXiv, MetaArXiv, MindRxiv, NutriXiv, Paleorxiv, PsyArXiv, SocArxiv, SportRxiv, and Thesis Commons,...
 
-### Bloguez sur votre sujet de recherche
+#### Dans Dataverse UdeM, un dépôt de données de recherche
 
-Voir le [Programme de 12 semaines pour démarrer un blogue sur un sujet de recherche](https://github.com/pmartinolli/TM-incubablog)
+* [Guide éclair](https://guides.bib.umontreal.ca/ckeditor_assets/attachments/original/guide_eclair_deposer_dans_spdv.pdf)
+* [Guide général](https://bib.umontreal.ca/gerer-diffuser/gestion-donnees-recherche)
+* [@Help!](gdr@bib.umontreal.ca)
 
-Il est possible d'envoyer des billets de la plateforme Hypothèses.org vers ORCID en se connectant à [OpenEdition avec son ORCID](https://maisondescarnets.hypotheses.org/3338).
+#### Dans GitHub/Zenodo, pour vos codes sources
 
-### Faites du réseautage professionnel, généraliste ou universitaire
-
-* [Portfolio UdeM](https://portfolio.umontreal.ca/) : Pour avoir une page web maître pointant vers tous les outils du Web où vous figurez.
-
-* [LinkedIn](https://ca.linkedin.com/) : Pour faire du réseautage professionnel (CV en ligne, contacts, posts courts ou articles longs).
-
-* [Twitter](https://twitter.com/) : Pour s'abonner à des flux d'information et redistribuer les plus intéressants.
-
-   * [Impactstory](https://impactstory.org/) : Pour suivre la popularité Twitter de vos publications.
-   
-* [ResearchGate](https://www.researchgate.net/) : Réseautage académique. Attention à ne pas enfreindre le droit d'auteur en déposant des articles que vous avez publié ailleurs (et à qui vous avez cédé vos droits d'auteur).
-
-* [Academia](https://www.academia.edu/) : Réseautage académique. Attention à ne pas enfreindre le droit d'auteur en déposant des articles que vous avez publié ailleurs (et à qui vous avez cédé vos droits d'auteur).
-
-### Vérifiez régulièrement
-
-* Vérifiez régulièrement dans Web of Science, Google Scholar, Base-Search, etc. que vos publications vous sont bien attribuées.
-
-* Créez-vous des alertes de citation sur vos publications pour être prévenu des documents qui vous citent.
+* Déposez votre code source, votre méthode, etc. sur GitHub.
+* Envoyez un *Release* dans Zenodo et obtenez un DOI pour le citer.
 
 
-### Publons
+## 4. Méta profil
 
-Si vous faites de la révision par les pairs d'articles de revues scientifiques, faites reconnaître votre travail et mesurez l'impact de vos pulications avec [Publons](https://publons.com/).
+Vous pouvez créer une page web statique en html qui recense tous les profils que vous avez créé en ligne. Si possible, ce méta profil doit avoir une URL fixe, simple et pérenne.
 
-Depuis 2019, [Springer Nature](https://www.springernature.com/gp/researchers/the-source/blog/blogposts-for-peer-reviewers/five-reasons-to-validate-your-reviews-with-orcid/17152380) permet aussi de reconnaître le travail de révision dans ses revues avec ORCID.
+* Suggestion pour les étudiants de l'Université de Montréal. Créer une page avec Portfolio. Exemple : https://portfolio.umontreal.ca/user/view.php?id=22220 
+* Suggestion : créer une page unique gratuite avec [about.me](https://about.me/) redirigeant vers votre Portfolio ou bien contenant tous les liens vers vos profils. Exemple : https://about.me/martinolli 
 
-### Wikidata
+
+## 5. Wikidata
 
 #### Éligibilité
 
@@ -130,13 +135,54 @@ Il est recommandé de se créer un compte Wikimedia et d'ajouter la page de votr
 
 Exemples de déclarations à surveiller : Place of birth (P19), Date of birth (P569), Located at street address (P6375), Phone number (P1329), E-mail address (P968), Sexual orientation (P91), Political ideology (P1142), Religion (P140), Medical condition (P1050), Cause of death (P509),...
 
+#### et Wikipédia ?
 
-### Optionnel : Méta-profil
+Au contraire de Wikidata, il est très mal vu de rédiger sa propre page Wikipédia. Si vous voulez une page Wikipédia à votre nom, assurez-vous d'avoir une [notoriété suffisante](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Notori%C3%A9t%C3%A9_des_personnes#Scientifiques,_universitaires) et de faire rédiger la page par des personnes tierces. 
 
-Vous pouvez créer une page web statique en html qui recense tous les profils que vous avez créé en ligne. Si possible, ce méta-profil doit avoir une URL fixe, simple et permanente dans le temps.
 
-* Suggestion pour les étudiants de l'Université de Montréal. Créer une page avec Portfolio. Exemple : https://portfolio.umontreal.ca/user/view.php?id=22220 
-* Suggestion : créer une page unique gratuite avec [about.me](https://about.me/) redirigeant vers votre Portfolio ou bien contenant tous les liens vers vos profils. Exemple : https://about.me/martinolli 
+## 6. Bloguez sur votre sujet de recherche
+
+Voir le [Programme de 12 semaines pour démarrer un blogue sur un sujet de recherche](https://github.com/pmartinolli/TM-incubablog)
+
+Il est possible d'envoyer des billets de la plateforme Hypothèses.org vers ORCID en se connectant à [OpenEdition avec son ORCID](https://maisondescarnets.hypotheses.org/3338). Les billets Hypothèses sont moissonnées par Base-Search.
+
+
+
+## 7. Faites du réseautage professionnel, généraliste ou universitaire
+
+* [Portfolio UdeM](https://portfolio.umontreal.ca/) : Pour avoir une page web personnelle, stable et libre.
+
+* [LinkedIn](https://ca.linkedin.com/) : Pour faire du réseautage professionnel (CV en ligne, contacts, posts courts ou articles longs).
+
+* [Twitter](https://twitter.com/) : Pour s'abonner à des flux d'information et redistribuer les plus intéressants. Avec [Impactstory](https://impactstory.org/) : Pour suivre la popularité Twitter de vos publications.
+   
+* [ResearchGate](https://www.researchgate.net/) : Réseautage académique. Attention à ne pas enfreindre le droit d'auteur en déposant des articles que vous avez publié ailleurs (et à qui vous avez cédé vos droits d'auteur).
+
+* [Academia](https://www.academia.edu/) : Réseautage académique. Attention à ne pas enfreindre le droit d'auteur en déposant des articles que vous avez publié ailleurs (et à qui vous avez cédé vos droits d'auteur).
+
+
+## 8. Vérifiez régulièrement
+
+* Vérifiez régulièrement dans Web of Science, Google Scholar, Base-Search, etc. que vos publications vous sont bien attribuées.
+
+* Créez-vous des alertes de citation sur vos publications pour être prévenu des documents qui vous citent.
+
+#### Créez un profil sur Base-Search
+
+1. Créez-vous un profil sur [Base Search](https://www.base-search.net/)
+2. Réclamez vos publications.
+
+## 9. Publons
+
+Si vous faites de la révision par les pairs d'articles de revues scientifiques, faites reconnaître votre travail et mesurez l'impact de vos pulications avec [Publons](https://publons.com/).
+
+Depuis 2019, [Springer Nature](https://www.springernature.com/gp/researchers/the-source/blog/blogposts-for-peer-reviewers/five-reasons-to-validate-your-reviews-with-orcid/17152380) permet aussi de reconnaître le travail de révision dans ses revues avec ORCID.
+
+
+\
+\
+
+
 
 ## Métadonnées
 
@@ -158,7 +204,8 @@ Vous pouvez créer une page web statique en html qui recense tous les profils qu
 
 * Thanks to / Remerciements : Natalie Clairoux, Fabián Rodríguez, Marisa Ruccolo
 
-
+\
+\
 
 ## Bibliographie
 
