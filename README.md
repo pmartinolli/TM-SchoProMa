@@ -144,7 +144,7 @@ Vous pouvez créer une page web statique en html qui recense tous les profils qu
 
 * Created / Créé le : 2018-11-23
 
-* Most recent version / Dernière version : 1.7
+* Most recent version / Dernière version : 1.8
 
 * Original format / format de fichier : LibreOffice Draw 5 (Open format/Format ouvert), MS Publisher 2013, 2016 (Proprietary/Propriétaire)
 
