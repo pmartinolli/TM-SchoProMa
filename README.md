@@ -116,17 +116,17 @@ Depuis 2019, [Springer Nature](https://www.springernature.com/gp/researchers/the
 
 ### Wikidata
 
-####Éligibilité
+#### Éligibilité
 
-En juin 2019, le [consensus](https://www.wikidata.org/wiki/Wikidata:Notability/fr) sur la [notoriété](https://www.wikidata.org/wiki/Topic:V2bwkulb3m2kfnk6) des éléments de Wikidata dit qu'il est possible de se créer un élément wikidata à la condition d'avoir publié au moins un article dans une revue universitaire avec comité de lecture. ([exemple](https://www.wikidata.org/wiki/Q57901035))
+En juin 2019, le [consensus](https://www.wikidata.org/wiki/Wikidata:Notability/fr) sur la [notoriété](https://www.wikidata.org/wiki/Topic:V2bwkulb3m2kfnk6) des éléments de Wikidata dit qu'il est possible de se créer un élément wikidata à la condition d'avoir publié au moins un article dans une revue universitaire avec comité de lecture ([exemple d'élément Q d'un chercheur](https://www.wikidata.org/wiki/Q54234666), [un autre](https://www.wikidata.org/wiki/Q3572699)).
 
-####Pourquoi?
+#### Pourquoi?
 
 Wikidata est devenu l'outil fédérateur de tous les identifiants ouverts de chercheurs. Il est aussi utilisé par les moteurs de recherche sémantiques (comme Google) pour améliorer leurs résultats de recherche.
 
-####Avertissement
+#### Avertissement
 
-Il est recommandé de se créer un compte Wikimedia et d'ajouter la page de votre élément Q à votre liste de suivi (*watchlist*) pour être alerté de toutes modifications sur celui-ci. En effet, il est possible que des personnes mal informées ou mal intentionnées indexent des déclarations (*statements*) privées ou diffamatoires. Si c'est le cas, envoyer un courriel immédiat au [Wikidata Oversight](https://www.wikidata.org/wiki/Wikidata:Oversight) pour masquer les déclarations concernées et leurs historiques de modification.
+Il est recommandé de se créer un compte Wikimedia et d'ajouter la page de votre élément Q à votre liste de suivi (*watchlist*) pour être alerté de toutes modifications sur celui-ci. Si vous avez une page Wikipédia à votre nom, faîtes de même. En effet, il est possible que des personnes mal informées ou mal intentionnées indexent des déclarations (*statements*) privées ou diffamatoires. Si c'est le cas, envoyer un courriel immédiat au [Wikidata Oversight](https://www.wikidata.org/wiki/Wikidata:Oversight) pour masquer les déclarations concernées et leurs historiques de modification.
 
 Exemples de déclarations à surveiller : Place of birth (P19), Date of birth (P569), Located at street address (P6375), Phone number (P1329), E-mail address (P968), Sexual orientation (P91), Political ideology (P1142), Religion (P140), Medical condition (P1050), Cause of death (P509),...
 
@@ -152,7 +152,7 @@ Vous pouvez créer une page web statique en html qui recense tous les profils qu
 
 * Used by / Utilisé par  : [Séminaire PLU6058](https://bib.umontreal.ca/multidisciplinaire/plu6058)
 
-* Promoted through / Diffusé via : FBPro, Twitter, LinkedIn, [Quartier Libre](http://quartierlibre.ca/bonne-reputation/), [Soutien à la recherche (guide Bib/UdeM)](https://bib.umontreal.ca/soutien-recherche/soutien-recherche)
+* Promoted through / Diffusé via : FBPro, Twitter, LinkedIn, [Quartier Libre](http://quartierlibre.ca/bonne-reputation/), [Soutien à la recherche (guide Bib/UdeM)](https://bib.umontreal.ca/soutien-recherche/soutien-recherche), colloque BES-CPI 2019.
 
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
@@ -162,13 +162,19 @@ Vous pouvez créer une page web statique en html qui recense tous les profils qu
 
 ## Bibliographie
 
+ARL Task Force on Wikimedia and Linked Open Data. (2019). ARL White Paper on Wikidata : Opportunities and Recommendations (p. 60). Consulté à l’adresse Association of Research Libraries website: https://www.arl.org/resources/arl-whitepaper-on-wikidata/
+
 Bouchard, A. (2018). [L’identité numérique du chercheur : quel accompagnement ?](https://urfistinfo.hypotheses.org/3219), UrfistInfo.
 
 Chiriac, Emanuela et Ève Richard. « [ORCiD: nom de code de la science ouverte](https://tribuneci.wordpress.com/2019/01/15/orcid-nom-de-code-de-la-science-ouverte/) ». Tribune Compétences Informationnelles, 15 janvier 2019.
 
 Clairoux, Natalie, et Rhoda Weiss-Lambrou. [Social Media Use in Medical and Health Professional Education: Role of the Librarian on a Faculty Steering Committee](http://hdl.handle.net/1866/12222). août 2015. doi:10.5596/c15-016.
 
+Collège Europe et international. (2019). Des identifiants ouverts pour la science ouverte : Note d’orientation. Consulté à l’adresse Comité pour la Science ouverte (coSO) website: https://www.ouvrirlascience.fr/des-identifiants-ouverts-pour-la-science-ouverte-note-dorientation
+
 Marie, É. (s.d.). [L'identité numérique du chercheur: Introduction](https://guides-formadoct.u-bretagneloire.fr/identite_numerique), Université de Bretagne Loire, FormaDoct.
+
+Meadows, A., Laurel, H., & Ksibi, N. (2019). La valeur d’utiliser des identifiants uniques pour les chercheurs. https://doi.org/10.23640/07243.8049671.v1
 
 Queensland University of Technology (s.d.) [Create your researcher profile](https://libguides.library.qut.edu.au/researcher_profile), QUT library guide.
 
@@ -176,7 +182,7 @@ Queensland University of Technology (2017) [Build your Researcher Profile](https
 
 Wesely, Marion. « [Ajouter ses billets Hypothèses à son profil ORCID](https://maisondescarnets.hypotheses.org/3338) ». La Maison des carnets (blog).
 
-\
+
 \
 \
 https://github.com/pmartinolli/TM-SchoProMa
