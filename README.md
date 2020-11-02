@@ -129,6 +129,10 @@ En juin 2019, le [consensus](https://www.wikidata.org/wiki/Wikidata:Notability/f
 
 Wikidata est devenu l'outil fédérateur de tous les identifiants ouverts de chercheurs. Il est aussi utilisé par les moteurs de recherche sémantiques (comme Google) pour améliorer leurs résultats de recherche.
 
+#### Comment ?
+
+Voir ici des suggestions pour créer ou améliorer son identifiant Wikidata : https://www.wikidata.org/wiki/User:Pmartinolli/Curation_chercheurs_UdeM
+
 #### Avertissement
 
 Il est recommandé de se créer un compte Wikimedia et d'ajouter la page de votre élément Q à votre liste de suivi (*watchlist*) pour être alerté de toutes modifications sur celui-ci. Si vous avez une page Wikipédia à votre nom, faîtes de même. En effet, il est possible que des personnes mal informées ou mal intentionnées indexent des déclarations (*statements*) privées ou diffamatoires. Si c'est le cas, envoyer un courriel immédiat au [Wikidata Oversight](https://www.wikidata.org/wiki/Wikidata:Oversight) pour masquer les déclarations concernées et leurs historiques de modification.
