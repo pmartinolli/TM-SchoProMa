@@ -1,8 +1,7 @@
-Prochaine mise à jour : décembre 2019
 
 # Gestion d'identité et de profil en ligne pour jeune chercheur universitaire 
 
-[Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.8-fr.pdf)
+[Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoProMa/blob/master/files/TM-SchoProMa-v1.9-fr.pdf)
 
 # *Scholarly profile management*
 
@@ -194,19 +193,19 @@ Depuis 2019, [Springer Nature](https://www.springernature.com/gp/researchers/the
 
 * Created / Créé le : 2018-11-23
 
-* Most recent version / Dernière version : 1.8
+* Most recent version / Dernière version : 1.9 (fr), 1.7 (en)
 
 * Original format / format de fichier : LibreOffice Draw 5 (Open format/Format ouvert), MS Publisher 2013, 2016 (Proprietary/Propriétaire)
 
 * License / Licence : CC-BY
 
-* Used by / Utilisé par  : [Séminaire PLU6058](https://bib.umontreal.ca/multidisciplinaire/plu6058)
+* Used by / Utilisé par  : [Séminaire PLU6058](https://bib.umontreal.ca/multidisciplinaire/plu6058), [Bibliothèques de la santé/ UdeM](https://youtu.be/1LFzAlaAaj4).
 
 * Promoted through / Diffusé via : FBPro, Twitter, LinkedIn, [Quartier Libre](http://quartierlibre.ca/bonne-reputation/), [Soutien à la recherche (guide Bib/UdeM)](https://bib.umontreal.ca/soutien-recherche/soutien-recherche), colloque BES-CPI 2019.
 
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
-* Thanks to / Remerciements : Natalie Clairoux, Fabián Rodríguez, Marisa Ruccolo
+* Thanks to / Remerciements : Natalie Clairoux, Fabián Rodríguez, Marisa Ruccolo, Patrice Dupont.
 
 \
 \
