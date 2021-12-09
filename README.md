@@ -197,7 +197,7 @@ Depuis 2019, [Springer Nature](https://www.springernature.com/gp/researchers/the
 
 * Original format / format de fichier : LibreOffice Draw 5 (Open format/Format ouvert), MS Publisher 2013, 2016 (Proprietary/Propriétaire)
 
-* License / Licence : CC-BY
+* License / Licence : Pascal Martinolli (Université de Montréal) under CC-BY 4.0
 
 * Used by / Utilisé par  : [Séminaire PLU6058](https://bib.umontreal.ca/multidisciplinaire/plu6058), [Bibliothèques de la santé/ UdeM](https://youtu.be/1LFzAlaAaj4).
 
